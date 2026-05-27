@@ -1,5 +1,5 @@
-nome_missao = "Orion Test Alpha"
-nome_equipe = "Equipe Apollo"
+nome_missao = "Atlas Odyssey"
+nome_equipe = "Orbit Engineers"
 
 dados_missao = [
     [24, 92, 88, 96, 90],
