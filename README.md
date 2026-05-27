@@ -1,6 +1,6 @@
 ## Visão Geral
 
-O **Mission Control AI** é um sistema inteligente de monitoramento de missão espacial desenvolvido em Python com foco em análise operacional, identificação de riscos e automação de decisões.
+O **Atlas Odyssey** é um sistema inteligente de monitoramento de missão espacial desenvolvido em Python com foco em análise operacional, identificação de riscos e automação de decisões.
 
 O projeto simula diferentes ciclos de uma missão espacial experimental, analisando continuamente informações críticas como temperatura, comunicação, bateria, oxigênio e estabilidade operacional.
 
@@ -30,7 +30,7 @@ Durante uma missão, diversos sistemas precisam ser analisados simultaneamente:
 - suporte à vida;
 - estabilidade estrutural e operacional.
 
-O Mission Control AI foi projetado para simular esse processo de análise automatizada utilizando regras lógicas desenvolvidas em Python.
+O **Atlas Odyssey** foi projetado para simular esse processo de análise automatizada utilizando regras lógicas desenvolvidas em Python pela equipe **Orbit Engineers**.
 
 ---
 
@@ -74,14 +74,6 @@ O projeto utiliza diversos conceitos fundamentais de programação e pensamento 
 - Organização modular de código
 
 ---
-
-# Estrutura dos Dados
-
-O sistema utiliza uma matriz principal chamada:
-
-```python
-dados_missao
-```
 
 Cada linha representa um ciclo da missão espacial.
 
@@ -216,7 +208,7 @@ Exemplos:
 
 # Tendência Operacional
 
-O Mission Control AI compara o primeiro e o último ciclo da missão para identificar tendências operacionais:
+O **Atlas Odyssey** compara o primeiro e o último ciclo da missão para identificar tendências operacionais:
 
 - melhora;
 - piora;
@@ -253,6 +245,8 @@ Isso permite identificar áreas críticas como:
 
 # Integrantes
 
+| Nome | RM |
+|---|---|
 | Enzo Stahal Freitas | RM569001 |
 | Matheus Bruno de Lima | RM572944 |
 
@@ -270,6 +264,8 @@ O trabalho tem como objetivo aplicar lógica computacional e automação em um c
 
 # Considerações Finais
 
-O Mission Control AI demonstra como regras lógicas e estruturas computacionais podem ser utilizadas para criar sistemas inteligentes de monitoramento e apoio à decisão.
+O **Atlas Odyssey** demonstra como regras lógicas e estruturas computacionais podem ser utilizadas para criar sistemas inteligentes de monitoramento e apoio à decisão.
 
 Mesmo sem utilização de inteligência artificial avançada ou machine learning, o projeto simula de forma eficiente o comportamento de um centro de controle espacial automatizado, reforçando conceitos fundamentais de programação, análise de dados e automação computacional.
+
+O sistema desenvolvido pela equipe **Orbit Engineers** representa uma solução computacional capaz de interpretar dados operacionais, identificar riscos e auxiliar na tomada de decisões em cenários críticos de missão espacial.
